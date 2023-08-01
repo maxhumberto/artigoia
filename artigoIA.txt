@@ -1,0 +1,75 @@
+### assunto
+IA e seus beneficios ?
+### titulo 
+"Conquistando Desafios Globais: Como a IA está sendo usada para resolver problemas globais e beneficiar a humanidade"
+Assunto 
+### usar ferrmaenta de IA para criar capa
+
+### blocos
+titulos e subititulos do que eu quero saber
+O que é Inteligência Artificial (IA)?
+HISTÓRIA DA INTELIGÊNCIA ARTIFICIAL
+Alguns acontecimentos históricos:
+Tipos de IA
+Onde podemos encontrar inteligência artificial?
+Como a inteligência artificial funciona?
+-Machine learning (aprendizado por experiência): 
+-Deep learning (máquinas autodidatas): 
+-Redes neurais(fazendo associações)
+-Computação cognitiva (análise de contexto)
+-NLP (Natural Language Processing – entender a linguagem)
+-Visão computacional (“olhos” ativos da máquina) 
+Aplicação da Inteligência Artificial na Saúde
+Aplicação da Inteligência Videogames:
+Aplicação da Inteligência Artificial na Segurança
+Aplicação da Inteligência Artificial em RH
+Contribuição para os objetivos de políticas públicas
+O sucesso do ChatGPT
+- Novas ferramentas de IA
+Explorando os Riscos e Benefícios da Inteligência Artificial
+- Principais Benefícios     
+Alguns fracassos do ia
+Explorando os Riscos e Benefícios da Inteligência Artificial
+-Riscos e desvantagens 
+Conclusão
+Agradecemos
+
+Ilustrações de capa: gerada pela ...
+Conteudo gerado por chatgpt e revisao humanas e pouco de pesquisa humana tambem. 
+{regras}
+comporte-se como cientias da computaçao e escreva o artigo conforme comando abaixo
+criar titulos e subitulos
+no maximo 5 linhas por blocos de explicação 
+me explica de maneira informal e educativa 
+Utilize bullet points para listas 
+faça um call to action para as minhas redes sociais
+coloque 3 hastags que façam sentidos
+De exemplo de IA com codigo onde pode ser usado Sempre que for escrever códigos, utilize o bloco de código 
+definir blocos conforme abaixo:
+titulos e subititulos do que eu quero saber
+    O que é Inteligência Artificial (IA)?
+    HISTÓRIA DA INTELIGÊNCIA ARTIFICIAL
+    Alguns acontecimentos históricos:
+    Tipos de IA
+    Onde podemos encontrar inteligência artificial?
+    Como a inteligência artificial funciona?
+    -Machine learning (aprendizado por experiência): 
+    -Deep learning (máquinas autodidatas): 
+    -Redes neurais(fazendo associações)
+    -Computação cognitiva (análise de contexto)
+    -NLP (Natural Language Processing – entender a linguagem)
+    -Visão computacional (“olhos” ativos da máquina) 
+    Aplicação da Inteligência Artificial na Saúde
+    Aplicação da Inteligência Videogames:
+    Aplicação da Inteligência Artificial na Segurança
+    Aplicação da Inteligência Artificial em RH
+    Contribuição para os objetivos de políticas públicas
+    O sucesso do ChatGPT
+    - Novas ferramentas de IA
+    Explorando os Riscos e Benefícios da Inteligência Artificial
+    - Principais Benefícios     
+    Alguns fracassos do ia
+    Explorando os Riscos e Benefícios da Inteligência Artificial
+    -Riscos e desvantagens 
+    Conclusão
+    Agradecemos
